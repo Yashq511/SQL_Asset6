@@ -1,11 +1,11 @@
 # SQL_Asset6
 
-##🎯 Objective
+## 🎯 Objective
 Practice and demonstrate advanced SQL query logic.
 Learn how to use scalar subqueries, correlated subqueries, and derived tables effectively.
 Understand filtering data using IN and EXISTS operators.
 
-🛠 Tools Used
+## 🛠 Tools Used
 MySQL Workbench / DB Browser for SQLite
 SQL (Structured Query Language)
 
@@ -27,7 +27,7 @@ SQL (Structured Query Language)
 | department_id | INT           | REFERENCES departments(department_id)        |
 | salary        | NUMERIC(10,2) | CHECK(salary > 0)                             |
 
-##📜 Queries
+## 📜 Queries
 ## Scalar Subquery in SELECT Clause
 ![Select scalar](https://github.com/user-attachments/assets/a3d88d8a-0628-4018-8ae3-ae02999bee89)
 
